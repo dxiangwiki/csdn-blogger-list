@@ -1,0 +1,107 @@
+[
+    {
+        "name": "herosunly",
+        "tag": "AI / 大模型 / 算法",
+        "type": "ai",
+        "desc": "2024博客之星第一，实战向，大模型微调、RAG、Agent、PyTorch，适合入门算法。",
+        "url": "https://blog.csdn.net/herosunly/"
+    },
+    {
+        "name": "猫头虎",
+        "tag": "Python / Go / AI / 入门",
+        "type": "ai",
+        "desc": "通俗易懂，大量教程、踩坑笔记、面试题，适合零基础、学生，互动积极。",
+        "url": "https://blog.csdn.net/qq_44866828/"
+    },
+    {
+        "name": "光子AI",
+        "tag": "大模型 / 微调 / 部署",
+        "type": "ai",
+        "desc": "高产稳定，主打本地大模型部署、微调教程，适合想跑本地LLM的同学。",
+        "url": "https://blog.csdn.net/weixin_43297891/"
+    },
+    {
+        "name": "AI熊建锟",
+        "tag": "AI / Python / 毕设项目",
+        "type": "ai",
+        "desc": "偏向学生毕设、AI项目落地，案例完整，适合找AI实战项目参考。",
+        "url": "https://blog.csdn.net/xjk2001/"
+    },
+    {
+        "name": "黛琳ghz",
+        "tag": "前端 / Vue / 校招面试",
+        "type": "front",
+        "desc": "前端领域专家，大量笔试真题、Vue2/Vue3、项目实战，适合学生准备校招。",
+        "url": "https://blog.csdn.net/weixin_53231455/"
+    },
+    {
+        "name": "watermelo37",
+        "tag": "Vue3 / 工程化 / 进阶",
+        "type": "front",
+        "desc": "在职前端工程师，主打Vue3、Vite、性能优化，代码案例完整，适合进阶提升。",
+        "url": "https://blog.csdn.net/RenGJ010617/"
+    },
+    {
+        "name": "叫我一声阿雷吧",
+        "tag": "原生JS / HTML/CSS",
+        "type": "front",
+        "desc": "原生JS入门专栏，手写组件案例多，适合零基础打好JS基本功。",
+        "url": "https://blog.csdn.net/weixin_44174689/"
+    },
+    {
+        "name": "卓晴",
+        "tag": "嵌入式 / 单片机 / 硬件",
+        "type": "embed",
+        "desc": "清华自动化老师，智能车竞赛大佬，内容严谨扎实，几乎没有水文。",
+        "url": "https://blog.csdn.net/zhuqinglu/"
+    },
+    {
+        "name": "yasin墨染锦年",
+        "tag": "Linux驱动 / RK / DPDK",
+        "type": "embed",
+        "desc": "博客专家，内核、驱动开发干货，偏向嵌入式底层开发。",
+        "url": "https://blog.csdn.net/yasin_ai/"
+    },
+    {
+        "name": "杨利杰YJlio",
+        "tag": "嵌入式 / 单片机",
+        "type": "embed",
+        "desc": "更新频率很高，大量实操踩坑记录，适合嵌入式入门学习。",
+        "url": "https://blog.csdn.net/yjlio/"
+    },
+    {
+        "name": "Java程序员廖志伟",
+        "tag": "Java / 微服务 / 面试",
+        "type": "java",
+        "desc": "博客专家，出书，分布式、Spring、面试总结，后端求职非常适合。",
+        "url": "https://blog.csdn.net/weixin_45730970/"
+    },
+    {
+        "name": "汪子熙",
+        "tag": "Java / Spring / SAP",
+        "type": "java",
+        "desc": "老牌头部博主，Spring全家桶系列文章质量很高，长期稳定更新。",
+        "url": "https://blog.csdn.net/i042416/"
+    },
+    {
+        "name": "dllglvzhenfeng",
+        "tag": "C/C++ / 计算机基础",
+        "type": "cpp",
+        "desc": "长期连续更新，偏向C语言、底层原理、计算机基础，适合打基础。",
+        "url": "https://blog.csdn.net/dllglvzhenfeng/"
+    },
+    {
+        "name": "展菲",
+        "tag": "运维 / 云原生 / 开发工具",
+        "type": "ops",
+        "desc": "原力9级，稳定产出，Docker、K8s、工具实战方案，内容偏工程落地。",
+        "url": "https://blog.csdn.net/zhanfei15936908869/"
+    },
+    {
+        "name": "学亮编程手记",
+        "tag": "Python / 爬虫 / 数据分析",
+        "type": "data",
+        "desc": "入门友好，爬虫、数据分析实战案例多，踩坑笔记丰富，活跃榜常客。",
+        "url": "https://blog.csdn.net/weixin_43888891/"
+    }
+]

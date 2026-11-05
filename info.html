@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSDN博主排名参考说明</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Microsoft Yahei", sans-serif;
+        }
+        body {
+            background-color: #f5f7fa;
+            padding: 24px;
+            color: #333;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 32px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 12px;
+            font-size: 26px;
+        }
+        .tip {
+            color: #666;
+            text-align: center;
+            margin-bottom: 24px;
+            font-size: 14px;
+        }
+        h2 {
+            font-size: 20px;
+            margin: 30px 0 16px;
+            color: #2980b9;
+            border-left: 4px solid #2980b9;
+            padding-left: 12px;
+        }
+        .rank-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 10px;
+        }
+        .rank-table th, .rank-table td {
+            border: 1px solid #e2e8f0;
+            padding: 12px 14px;
+            font-size: 15px;
+        }
+        .rank-table th {
+            background-color: #edf6fc;
+        }
+        .warn {
+            margin-top: 28px;
+            padding: 16px;
+            background: #fff8e8;
+            border-radius: 8px;
+            border-left:4px solid #f39c12;
+        }
+        .warn h4 {
+            color:#c07b17;
+            margin-bottom:8px;
+        }
+        .warn li {
+            margin-left:20px;
+            line-height:1.7;
+            font-size:14px;
+        }
+        .nav-box {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .nav-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #2980b9;
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+        }
+        .nav-btn:hover {
+            background-color: #206b96;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CSDN博主总排名参考说明</h1>
+        <div class="tip">说明：排名为圈内经验参考，排名 ≠ 真实技术水平；排名每日动态更新，20000名以外不显示名次</div>
+
+        <h2>一、博主总排名区间水平参考</h2>
+        <table class="rank-table">
+            <thead>
+                <tr>
+                    <th>排名区间</th>
+                    <th>水平说明</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1～100</td>
+                    <td>天花板顶流大佬，平台头部KOL，博客专家，爆款文章多，粉丝几万~几十万</td>
+                </tr>
+                <tr>
+                    <td>101～500</td>
+                    <td>一线知名博主，稳定高质量原创，细分领域有知名度，粉丝上万</td>
+                </tr>
+                <tr>
+                    <td>501～2000</td>
+                    <td>资深优质博主，长期原创积累，粉丝几千，求职背书加分</td>
+                </tr>
+                <tr>
+                    <td>2001～5000</td>
+                    <td>进阶成熟博主，持续产出干货，超过大部分普通用户，冲这个区间难度不小</td>
+                </tr>
+                <tr>
+                    <td>5001～10000</td>
+                    <td>小有成果，坚持写笔记，偶尔小爆款，多为学生、刚入行开发者</td>
+                </tr>
+                <tr>
+                    <td>10001～20000</td>
+                    <td>新手记录者，随缘更新，以学习笔记为主，流量不稳定</td>
+                </tr>
+                <tr>
+                    <td>＞20000</td>
+                    <td>不展示排名，绝大多数普通用户，发文少、断更或者水文较多</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>二、相关概念区分</h2>
+        <table class="rank-table">
+            <thead>
+                <tr>
+                    <th>名称</th>
+                    <th>说明</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>综合总排名</td>
+                    <td>阅读、收藏、互动、原创、活跃加权，就是本表参考的排名</td>
+                </tr>
+                <tr>
+                    <td>原力等级</td>
+                    <td>CSDN原创积分等级，Lv1~Lv9，代表原创产出积累</td>
+                </tr>
+                <tr>
+                    <td>博客之星</td>
+                    <td>年度评选榜单，一年一次，和日常总排名不是一回事</td>
+                </tr>
+                <tr>
+                    <td>领域榜</td>
+                    <td>单一赛道独立榜单，不是全站综合排名</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="warn">
+            <h4>⚠️ 重要提醒</h4>
+            <ul>
+                <li>排名可以靠水文、AI批量发文堆上去，排名高不等于技术强；很多大牛不写博客，排名很低。</li>
+                <li>优先看：原创率、收藏点赞比、文章发布时间，不要只看排名。</li>
+                <li>排名每日更新，断更之后排名会逐步下滑。</li>
+            </ul>
+        </div>
+
+        <div class="nav-box">
+            <a href="index.html" class="nav-btn">← 返回博主榜单主页</a>
+        </div>
+    </div>
+</body>
+</html>
