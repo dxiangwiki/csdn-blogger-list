@@ -103,5 +103,11 @@
         "type": "data",
         "desc": "入门友好，爬虫、数据分析实战案例多，踩坑笔记丰富，活跃榜常客。",
         "url": "https://blog.csdn.net/weixin_43888891/"
+    },{
+        "name":"知远漫谈",
+        "tag":"大数据技术领域、人工智能、Python技术领域、Java、后端开发技术领域",
+        "type":"data-plus",
+        "desc":"不做技术的追随者，只做未来的定义者。 ",
+        "url":"https://blog.csdn.net/qq_41187124"
     }
 ]
