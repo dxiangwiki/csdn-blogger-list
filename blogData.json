@@ -66,8 +66,8 @@
         "name": "杨利杰YJlio",
         "tag": "嵌入式 / 单片机",
         "type": "embed",
-        "desc": "更新频率很高，大量实操踩坑记录，适合嵌入式入门学习。",
-        "url": "https://blog.csdn.net/yjlio/"
+        "desc": "更新频率很高，大量实操踩坑记录，适合嵌入式入门学习。CSDN优质创作者·操作系统技术领域，专注Windows桌面运维/排障、Sysinternals工具实战、PowerShell自动化、系统封装交付；榜单综合指标803，上周排名第1。",
+        "url": "https://blog.csdn.net/weixin_47431459"
     },
     {
         "name": "Java程序员廖志伟",
@@ -108,7 +108,168 @@
         "name": "知远漫谈",
         "tag": "大数据技术领域、人工智能、Python技术领域、Java、后端开发技术领域",
         "type": "data-plus",
-        "desc": "不做技术的追随者，只做未来的定义者。 ",
+        "desc": "不做技术的追随者，只做未来的定义者。VIP、博客专家认证，博客等级9，粉丝20562，获赞82571；榜单综合指标567，上周排名第16。",
         "url": "https://blog.csdn.net/qq_41187124/"
+    },
+    {
+        "name": "承渊政道",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "CSDN等级7，博客起步于C语言学习，第一篇写《C语言的常见概念》，一年内访问量214万；榜单综合指标694，上周排名第2。",
+        "url": "https://blog.csdn.net/2401_87629362"
+    },
+    {
+        "name": "七夜zippoe",
+        "tag": "Java / 全栈 / 数据库 / 小程序",
+        "type": "java",
+        "desc": "Java高级工程师→全栈开发工程师→项目经理，腾讯云创作之星，深耕Java领域，涉猎数据库、前端、Uniapp、微信小程序、Python、服务器、AI等，擅长实战类博文；榜单综合指标668，上周排名第3。",
+        "url": "https://blog.csdn.net/sinat_41617212"
+    },
+    {
+        "name": "Seal^_^",
+        "tag": "云计算 / 数据库",
+        "type": "ops",
+        "desc": "CSDN优质创作者·云计算技术领域，领域专家·数据库技术领域，码龄9年，粉丝6.2万+，原创5755篇；榜单综合指标650，上周排名第4。",
+        "url": "https://blog.csdn.net/qq_41840843"
+    },
+    {
+        "name": "星河耀银海",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级7，粉丝9959，获赞20147；榜单综合指标646，上周排名第28（本周跃升至第5）。",
+        "url": "https://blog.csdn.net/aiclaws"
+    },
+    {
+        "name": "byte轻骑兵",
+        "tag": "嵌入式 / Android / Linux / RTOS / AIoT",
+        "type": "embed",
+        "desc": "就职于国内知名科技企业，专注嵌入式系统研发，深耕Android、Linux、RTOS、通信协议、AIoT、物联网及C/C++等领域；博客等级9，粉丝62095，获赞44624；榜单综合指标632，上周排名第5。",
+        "url": "https://blog.csdn.net/weixin_37800531"
+    },
+    {
+        "name": "Halcyon.平安",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级7，粉丝13219，获赞22376；榜单综合指标632，上周排名第8。",
+        "url": "https://blog.csdn.net/2401_86326742"
+    },
+    {
+        "name": "TunerT_TQ",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "VIP，博客等级7，粉丝1467，获赞6946；榜单综合指标632，上周排名第7。",
+        "url": "https://blog.csdn.net/tunert_tq"
+    },
+    {
+        "name": "xcLeigh",
+        "tag": "综合 / 前端源码 / 前沿技术",
+        "type": "front",
+        "desc": "全网几十万粉丝，分享代码的技术博主，有“前沿技术分享”“前端源码分享”等专栏；博客专家认证，博客等级10，粉丝171949，获赞128220；榜单综合指标631，上周排名第6。",
+        "url": "https://blog.csdn.net/weixin_43151418"
+    },
+    {
+        "name": "RuoyiOffice",
+        "tag": "Java / 若依 / 企业级开发 / Spring Boot 3",
+        "type": "java",
+        "desc": "企业官方账号，基于RuoYi-Vue-Pro做企业管理一体化平台RuoyiOffice，技术栈为Spring Boot 3.5 + Vue 3 + Vben Admin + Flowable，涉及OA、HRM、CRM、ERP、BPM等模块；VIP，博客等级7，粉丝4279，获赞9497；榜单综合指标621，上周排名第9。",
+        "url": "https://blog.csdn.net/zhouzhongyan"
+    },
+    {
+        "name": "艾莉丝努力练剑",
+        "tag": "C/C++ / 数据结构与算法",
+        "type": "cpp",
+        "desc": "学习方向为C/C++，专栏包括《C语言》《数据结构与算法》、C语言刷题强训等；博客等级8，粉丝10989，获赞25863；榜单综合指标610，上周排名第13。",
+        "url": "https://blog.csdn.net/2401_89899187"
+    },
+    {
+        "name": "程序山海",
+        "tag": "Java / Python / 人工智能 / 系统架构",
+        "type": "java",
+        "desc": "Java、Python工程师/高级人工智能工程师/系统架构师；博客等级7，粉丝20323，获赞70807；榜单综合指标607，上周排名第11。",
+        "url": "https://blog.csdn.net/collinsxu"
+    },
+    {
+        "name": "倔强的石头_",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级9，粉丝29190，获赞65989；榜单综合指标602，上周排名第10。",
+        "url": "https://blog.csdn.net/2302_78391795"
+    },
+    {
+        "name": "一只牛博",
+        "tag": "全栈 / 微服务 / Spring Cloud",
+        "type": "java",
+        "desc": "全栈领域优质创作者，华为云专家博主，阿里云博客专家，内容涉及Spring Cloud、Nacos、Gateway等微服务实战，也做浏览器插件工具；博客等级9，粉丝29662，获赞17983；榜单综合指标600，上周排名第14。",
+        "url": "https://blog.csdn.net/mrxiao_bo"
+    },
+    {
+        "name": "「流浪」",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级6，粉丝4435，获赞7808；榜单综合指标598，上周排名第12。",
+        "url": "https://blog.csdn.net/2502_94387000"
+    },
+    {
+        "name": "进击的荆棘",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级6，粉丝1805，获赞5554；榜单综合指标597，上周排名第15。",
+        "url": "https://blog.csdn.net/2501_93697341"
+    },
+    {
+        "name": "星光编译者",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级5，粉丝2685，获赞2093；榜单综合指标586，上周排名第41（本周跃升至第17）。",
+        "url": "https://blog.csdn.net/weixin_64304261"
+    },
+    {
+        "name": "软件科学-郝学胜",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级8，粉丝12813，获赞28450；榜单综合指标578，上周排名第18。",
+        "url": "https://blog.csdn.net/2503_92624912"
+    },
+    {
+        "name": "我不会起名字322",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级5，粉丝667，获赞1845；榜单综合指标576，上周排名第22。",
+        "url": "https://blog.csdn.net/2501_92769340"
+    },
+    {
+        "name": "wei_shuo",
+        "tag": "Java / Spring / Spring Boot",
+        "type": "java",
+        "desc": "个人博客标注Java、Spring、Spring Boot方向（第三方SEO工具抓取，置信度中等，建议进主页核实）；博客等级9，粉丝33136，获赞57628；榜单综合指标572，上周排名第17。",
+        "url": "https://blog.csdn.net/weixin_62765017"
+    },
+    {
+        "name": "愿旖旎",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级5，粉丝620，获赞2929；榜单综合指标560，上周排名第21。",
+        "url": "https://blog.csdn.net/2601_96587588"
+    },
+    {
+        "name": "bksczm",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "有Redis、分布式相关系列专栏，但领域线索较弱；博客等级5，粉丝528，获赞2093；榜单综合指标554，上周排名第20。",
+        "url": "https://blog.csdn.net/bksczm"
+    },
+    {
+        "name": "重生之小比特",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客等级5，粉丝675，获赞3819；榜单综合指标553，上周排名第19。",
+        "url": "https://blog.csdn.net/wuqingyigexiaoba"
+    },
+    {
+        "name": "正在走向自律",
+        "tag": "领域待核实",
+        "type": "all",
+        "desc": "博客专家认证，博客等级9，粉丝44035，获赞32051；榜单综合指标549，上周排名第31。",
+        "url": "https://blog.csdn.net/beautifulmemory"
     }
 ]
